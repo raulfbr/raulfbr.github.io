@@ -1,5 +1,5 @@
 ---
-title:
+title: First Post
 date: 2024-07-09 15:08:00
 catefories: [personal]
 tags: [first]
